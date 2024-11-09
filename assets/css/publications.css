@@ -301,17 +301,17 @@ screen and (min-width: 480px) {
 }
 
 #about-me{
-  scroll-margin-top: 40px;
+  scroll-margin-top: 20px;
 }
 #research-interests{
-  scroll-margin-top: 40px;
+  scroll-margin-top: 20px;
 }
 #news{
-  scroll-margin-top: 40px;
+  scroll-margin-top: 20px;
 }
 #manuscripts{
-  scroll-margin-top: 40px;
+  scroll-margin-top: 20px;
 }
 #publications{
-  scroll-margin-top: 40px;
+  scroll-margin-top: 20px;
 }
