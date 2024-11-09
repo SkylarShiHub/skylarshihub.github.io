@@ -8,7 +8,7 @@ main:
     sitUrl: https://www.dropbox.com/scl/fi/t4ri2mtqscf8em92ijl70/Poster_ICSA_SkylarShi.pdf?rlkey=63ga4qex5vr3r4qd9eyx3ckoe&amp;st=bvty1lnb&amp;dl=0
     code: 
     # bibtex:
-    image: ./assets/img/draft1.png
+    image: ./assets/img/draft1.2.png
     notes: In preparation
 
   - title: "A Bayesian implementation approach on probit unfolding models for binary preference data"
@@ -20,7 +20,7 @@ main:
     code: https://github.com/SkylarShiHub/pumBayes
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # image: ./assets/img/draft2.png
+    image: ./assets/img/draft2.png
     notes: In preparation
     
   - title: "Climate forecast based on Bayesian hierarchical models"
