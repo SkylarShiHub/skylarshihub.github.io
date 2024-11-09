@@ -146,7 +146,7 @@
         abstractTxT[index].innerHTML = fullAbstract + " <span class='read-more' onclick='showAbstract(" + index + ")'>Read less</span>";
       } else {
         // 隐藏摘要并重新显示简短版本
-        var shortAbstract = fullAbstract.substring(0, 80) + "... <span class='read-more' onclick='showAbstract(" + index + ")'>Read more</span>";
+        var shortAbstract = fullAbstract.substring(0, 125) + "... <span class='read-more' onclick='showAbstract(" + index + ")'>Read more</span>";
         abstractTxT[index].innerHTML = shortAbstract;  // 更新内容为简短摘要
       }
     }
