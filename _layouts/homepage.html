@@ -125,12 +125,12 @@
     // 获取到之后对每一个abstract进行处理，控制只显示两行，后面用...代替，在...文本后面加上read more可点击，点击后显示所有abstract
     for (var i = 0; i < abstractTxT.length; i++) {
       var abstract = abstractTxT[i].innerHTML;
-      if (abstract.length > 125) {
+      if (abstract.length > 123) {
         // 保留完整摘要
         abstractTxT[i].setAttribute('data-full', abstract);
 
         // 显示简短的摘要和“Read more”链接
-        var shortAbstract = abstract.substring(0, 125) + "... <span class='read-more' onclick='showAbstract(" + i + ")'>Read more</span>";
+        var shortAbstract = abstract.substring(0, 123) + "... <span class='read-more' onclick='showAbstract(" + i + ")'>Read more</span>";
         abstractTxT[i].innerHTML = shortAbstract;  // 更新内容为简短摘要
       }
     }
@@ -146,7 +146,7 @@
         abstractTxT[index].innerHTML = fullAbstract + " <span class='read-more' onclick='showAbstract(" + index + ")'>Read less</span>";
       } else {
         // 隐藏摘要并重新显示简短版本
-        var shortAbstract = fullAbstract.substring(0, 125) + "... <span class='read-more' onclick='showAbstract(" + index + ")'>Read more</span>";
+        var shortAbstract = fullAbstract.substring(0, 123) + "... <span class='read-more' onclick='showAbstract(" + index + ")'>Read more</span>";
         abstractTxT[index].innerHTML = shortAbstract;  // 更新内容为简短摘要
       }
     }
