@@ -20,7 +20,7 @@ main:
     code: https://github.com/SkylarShiHub/pumBayes
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image:
+    # image: ./assets/img/draft2.png
     notes: In preparation
     
   - title: "Climate forecast based on Bayesian hierarchical models"
@@ -29,6 +29,6 @@ main:
     pdf:
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
-    image:
+    image: ./assets/img/draft3.png
     notes: In preparation
     
