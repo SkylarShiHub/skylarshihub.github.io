@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  
+  - title: Assessing the interconnectedness and systemic risk contagion in the Chinese banking network
+    authors: "Qi, M., <strong>Shi, D.</strong>, Feng, S., Wang, P., & Nnenna, A. B. (2022)"
+    conference: International Journal of Emerging Markets, 17(3), 889-913. 2022.
+    abstract: "<strong>Abstract:</strong> We proposed a network-based approach, grounded in maximum entropy theory, to model systemic risk contagion in the banking sector. We construct a bilateral exposure matrix that estimates interbank exposures by maximizing entropy, which allows for a more realistic approximation of unknown data while preserving known constraints. The network structure was analyzed using network topology theory and centrality measures to assess interconnectedness among banks. Our model simulated risk propagation under both credit and liquidity shocks, examining how these shocks spread across the network. By comparing contagion effects from different shocks situations, we identify how various shock types impact individual bank stability and the overall resilience of the network."
+    pdf: https://www.emerald.com/insight/content/doi/10.1108/IJOEM-08-2021-1331/full/pdf
+    sitUrl:
+    code: https://github.com/SkylarShiHub/Interconnectedness-in-banking-network-2022
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pzvB1pBOUPsJ:scholar.google.com/&output=citation&scisdr=ClEYDkZBEJzSoYLW_gw:AFWwaeYAAAAAZyzQ5gwBZzZG7WcYSy1Bnwb7U3w&scisig=AFWwaeYAAAAAZyzQ5lu_nUhSDxYCxtjEgJgBNBw&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/paper1.png
+    # notes: Published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: "Improving oil supply security: using a risk optimization model to China and India"
+    authors: "Qi, M., <strong>Shi, D.</strong>, Li, C., Wu, J., & Wang, P. (2021)"
+    conference: Discrete Dynamics in Nature and Society, 2021(1), 5541954.
+    abstract: "<strong>Abstract:</strong> This paper developed a risk optimization model to enhance oil supply security by minimizing risks associated with import sources. The model incorporates key variables including political risk factors of supplier countries, import prices, quantities, and the Herfindahl-Hirschman Index (HHI) to measure diversification, with constraints for domestic consumption and refining capacities. The optimization framework generates an optimal import strategy that reduces dependency on high-risk sources. This methodology provides a strategic tool for managing energy supply risks in volatile geopolitical landscapes. Application results indicated a reallocation of imports for China and India that improves resilience against supply disruptions."
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    sitUrl:
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NJ6nat5aaWMJ:scholar.google.com/&output=citation&scisdr=ClEYDkZBEJzSoYLXPQ0:AFWwaeYAAAAAZyzRJQ3EdJlII4bPTh3VheMzrhE&scisig=AFWwaeYAAAAAZyzRJYdcfzsWECpiyffsxwdkfro&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/paper2.jpg

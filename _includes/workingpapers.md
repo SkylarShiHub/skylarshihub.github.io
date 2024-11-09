@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 33px 0px -15px;">Publications</h2>
+<h2 id="workingpapers" style="margin: 2px 0px -15px;">Working papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.workingpapers.main %}
 
 <li>
 <div class="pub-row">
@@ -16,12 +16,10 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.sitUrl }}" target="_blank">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em></div>
-      <div class="abstract">{{ link.abstract }}</div>
-      <div class="keywords"><em>{{ link.keywords }}</em></div>
-      
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

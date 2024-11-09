@@ -1,0 +1,10 @@
+main:
+
+  - title: "Copula mixture models for marked point processes in time"
+    authors: "<strong>Shi, D.</strong> & Zheng, X. "
+    conference: "<strong>Keywords:</strong> Bayesian hierarchical models; Conditional mark distribution; Markov chain Monte Carlo; Mixture transition distribution models; Pair-copula construction."
+    pdf: https://www.dropbox.com/scl/fi/ket0rz260yymawqcma8o2/CMTDMPP_draft.pdf?rlkey=f1ybuo8rnilzzz6n06lc0d943&st=xrvu1jv7&dl=0
+    code: 
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/draft1.png
+    notes: In preparation

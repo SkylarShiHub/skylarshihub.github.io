@@ -1,6 +1,5 @@
 .pub-row {
-  display: flex; 
-  align-items: center;}
+  display: flex; }
 
 .social-icons a{
   display:inline-block;
@@ -196,7 +195,7 @@ h1 {
 h2 {
   color:#043361;
   font-weight: 500;
-  margin:2px 0px 15px;
+  margin:33px 0px 15px;
   font-size: 157%;
 }
 
@@ -288,7 +287,8 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
+  gap:8px;
 }
 
 
