@@ -18,7 +18,7 @@ main:
     conference: Discrete Dynamics in Nature and Society, 2021(1), 5541954.
     abstract: "<strong>Abstract:</strong> This paper developed a risk optimization model to enhance oil supply security by minimizing risks associated with import sources. The model incorporates key variables including political risk factors of supplier countries, import prices, quantities, and the Herfindahl-Hirschman Index (HHI) to measure diversification, with constraints for domestic consumption and refining capacities. The optimization framework generates an optimal import strategy that reduces dependency on high-risk sources. This methodology provides a strategic tool for managing energy supply risks in volatile geopolitical landscapes. Application results indicated a reallocation of imports for China and India that improves resilience against supply disruptions."
     keywords: <strong>Keywords:</strong> risk optimization model, Herfindahl-Hirschman index, supply chain diversification, energy import strategy
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://www.dropbox.com/scl/fi/cgyki6ct55ryr22tbh3qq/Discrete-Dynamics-in-Nature-and-Society-2021-Qi-Improving-Oil-Supply-Security-Using-a-Risk-Optimization-Model-to-1.pdf?rlkey=0f5geum3j3qp2evt8wcde7eso&st=bxxjphjn&dl=0
     sitUrl: https://onlinelibrary-wiley-com.offcampus.lib.washington.edu/share/B3GAHUPYNCVRFVYPNNVP?target=10.1155/2021/5541954
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NJ6nat5aaWMJ:scholar.google.com/&output=citation&scisdr=ClEYDkZBEJzSoYLXPQ0:AFWwaeYAAAAAZyzRJQ3EdJlII4bPTh3VheMzrhE&scisig=AFWwaeYAAAAAZyzRJYdcfzsWECpiyffsxwdkfro&scisf=4&ct=citation&cd=-1&hl=en
