@@ -26,7 +26,7 @@ main:
   - title: "Probabilistic assessment of climate change through to century’s end"
     authors: "Jiang, J., <strong>Shi, D.*</strong> & Raftery, A. E. (2024+). (*Co-First Author)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a joint Bayesian hierarchical model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal.
-    keywords: <strong>Keywords:</strong> Bayesian hierarchical model, global temperature projection, Paris Agreement, nationally determined contributions
+    keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions
     pdf:
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
