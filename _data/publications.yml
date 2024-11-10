@@ -5,8 +5,9 @@ main:
     authors: "Qi, M., <strong>Shi, D.</strong>, Feng, S., Wang, P., & Nnenna, A. B. (2022)"
     conference: International Journal of Emerging Markets, 17(3), 889-913. 2022.
     abstract: "<strong>Abstract:</strong> We proposed a network-based approach, grounded in maximum entropy theory, to model systemic risk contagion in the banking sector. We construct a bilateral exposure matrix that estimates interbank exposures by maximizing entropy, which allows for a more realistic approximation of unknown data while preserving known constraints. The network structure was analyzed using network topology theory and centrality measures to assess interconnectedness among banks. Our model simulated risk propagation under both credit and liquidity shocks, examining how these shocks spread across the network. By comparing contagion effects from different shocks situations, we identify how various shock types impact individual bank stability and the overall resilience of the network."
+    keywords: risk contagion, interbank market, network topology, credit shock, liquid shock
     pdf: https://www.emerald.com/insight/content/doi/10.1108/IJOEM-08-2021-1331/full/pdf
-    sitUrl:
+    sitUrl: https://doi.org/10.1108/IJOEM-08-2021-1331
     code: https://github.com/SkylarShiHub/Interconnectedness-in-banking-network-2022
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pzvB1pBOUPsJ:scholar.google.com/&output=citation&scisdr=ClEYDkZBEJzSoYLW_gw:AFWwaeYAAAAAZyzQ5gwBZzZG7WcYSy1Bnwb7U3w&scisig=AFWwaeYAAAAAZyzQ5lu_nUhSDxYCxtjEgJgBNBw&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/paper1.png
@@ -16,8 +17,9 @@ main:
     authors: "Qi, M., <strong>Shi, D.</strong>, Li, C., Wu, J., & Wang, P. (2021)"
     conference: Discrete Dynamics in Nature and Society, 2021(1), 5541954.
     abstract: "<strong>Abstract:</strong> This paper developed a risk optimization model to enhance oil supply security by minimizing risks associated with import sources. The model incorporates key variables including political risk factors of supplier countries, import prices, quantities, and the Herfindahl-Hirschman Index (HHI) to measure diversification, with constraints for domestic consumption and refining capacities. The optimization framework generates an optimal import strategy that reduces dependency on high-risk sources. This methodology provides a strategic tool for managing energy supply risks in volatile geopolitical landscapes. Application results indicated a reallocation of imports for China and India that improves resilience against supply disruptions."
+    keywords: risk optimization model, Herfindahl-Hirschman index, supply chain diversification, energy import strategy
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    sitUrl:
+    sitUrl: https://onlinelibrary-wiley-com.offcampus.lib.washington.edu/share/B3GAHUPYNCVRFVYPNNVP?target=10.1155/2021/5541954
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NJ6nat5aaWMJ:scholar.google.com/&output=citation&scisdr=ClEYDkZBEJzSoYLXPQ0:AFWwaeYAAAAAZyzRJQ3EdJlII4bPTh3VheMzrhE&scisig=AFWwaeYAAAAAZyzRJYdcfzsWECpiyffsxwdkfro&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/paper2.jpg
