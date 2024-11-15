@@ -4,7 +4,7 @@ main:
     authors: "<strong>Shi, D.</strong> & Zheng, X. (2024+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based constructive framework for building marked point processes observed over time. In the framework, a marked point process is characterized by the conditional multivariate density of the duration (interval between successive event times) and marks. We model the conditional multivariate density using a finite mixture of transition densities, eachincorporating a different lagged duration and its associated marks. These mixture transition densities are constructed by exploiting the decomposition of a high-dimensional densities intobivariate-copula densities and marginal densities. Using bivariate copulas as building blocks allows for flexible modeling of multivariate non-Gaussian dependence among durations and marks.Our approach using copulas, combined with the mixture model formulation for the conditional multivariate density, yields a flexible model for high-order dependence in point processes withmultivariate marks, while retaining computational efficiency. We investigate properties of the point process model analytically and through simulation studies. The methodology is illustratedwith an example from the environmental science."
     keywords: "<strong>Keywords:</strong> Bayesian hierarchical models; Conditional mark distribution; Markov chain Monte Carlo; Mixture transition distribution models; Pair-copula construction."
-    pdf: https://www.dropbox.com/scl/fi/ket0rz260yymawqcma8o2/CMTDMPP_draft.pdf?rlkey=f1ybuo8rnilzzz6n06lc0d943&st=xrvu1jv7&dl=0
+    pdf:
     sitUrl: https://www.dropbox.com/scl/fi/t4ri2mtqscf8em92ijl70/Poster_ICSA_SkylarShi.pdf?rlkey=63ga4qex5vr3r4qd9eyx3ckoe&amp;st=bvty1lnb&amp;dl=0
     code: 
     # bibtex:
@@ -15,7 +15,7 @@ main:
     authors: "<strong>Shi, D.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> This paper introduces the Bayesian implementation and result analysis of static and dynamic probit unfolding models for binary preference data, using R package pumBayes. The package conducts posterior sampling directly from all full conditional distributions, based on an efficient Gibbs sampling algorithm we develpoed that eliminates the need for Metropolis-Hastings (M-H) by incorporating auxiliary and latent variables. This approach simplifies the computational process substantially and addresses a big challenge in existing Bayesian algorithms that rely on carefully calibrated M-H proposals. Additionally, pumBayes includes a function for tuning hyperparameters based on probability distributions, making the priors interpretable and comparable across model formulations. We demonstrate the utility of this package using data from the 116th U.S. House of Representatives as well as U.S. Supreme Court voting records from 1937 to 2022 as examples."
     keywords: "<strong>Keywords:</strong> unfolding models; spatial voting models; non-monotonic response function; item response theory; Markov chain Monte Carlo."
-    pdf:
+    pdf: https://skylarshihub.github.io/
     sitUrl:
     code: https://github.com/SkylarShiHub/pumBayes
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -27,7 +27,7 @@ main:
     authors: "Jiang, J., <strong>Shi, D.*</strong> & Raftery, A. E. (2024+). (*Co-First Author)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a joint Bayesian hierarchical model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal.
     keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions
-    pdf:
+    pdf: https://skylarshihub.github.io/
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
     image: ./assets/img/draft3.png
