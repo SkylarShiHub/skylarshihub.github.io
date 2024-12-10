@@ -11,11 +11,11 @@ main:
     image: ./assets/img/draft1.2.png
     notes: In preparation
 
-  - title: "A Bayesian implementation approach on probit unfolding models for binary preference data"
+  - title: "pumBayes: Bayesian estimation of probit unfolding models for binary preference data in R"
     authors: "<strong>Shi, D.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> This paper introduces the Bayesian implementation and result analysis of static and dynamic probit unfolding models for binary preference data, using R package pumBayes. The package conducts posterior sampling directly from all full conditional distributions, based on an efficient Gibbs sampling algorithm we develpoed that eliminates the need for Metropolis-Hastings (M-H) by incorporating auxiliary and latent variables. This approach simplifies the computational process substantially and addresses a big challenge in existing Bayesian algorithms that rely on carefully calibrated M-H proposals. Additionally, pumBayes includes a function for tuning hyperparameters based on probability distributions, making the priors interpretable and comparable across model formulations. We demonstrate the utility of this package using data from the 116th U.S. House of Representatives as well as U.S. Supreme Court voting records from 1937 to 2022 as examples."
     keywords: "<strong>Keywords:</strong> unfolding models; spatial voting models; non-monotonic response function; item response theory; Markov chain Monte Carlo."
-    pdf: https://skylarshihub.github.io/
+    pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
     sitUrl:
     code: https://github.com/SkylarShiHub/pumBayes
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
