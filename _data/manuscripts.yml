@@ -14,7 +14,7 @@ main:
   - title: "pumBayes: Bayesian estimation of probit unfolding models for binary preference data in R"
     authors: "<strong>Shi, D.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> Probit unfolding models (PUMs) are a novel class of scaling models that allow for items with both monotonic and non-monotonic response functions and have shown great promise in the estimation of preferences from voting data in various deliberative bodies.  This paper presents the R package pumBayes, which enables Bayesian inference for both static and dynamic PUMs using Markov chain Monte Carlo algorithms that require minimal or no tunning. In addition to funcitons that carry out the sampling from the posterior distribution of the models, the package also includes various support functions that can be used to pre-process data, select hyperparameters, summarize output, and compute metrics of model fit.  We demonstrate the use of the package through an analysis of two datasets, one corresponding to roll-call voting data from the 116th U.S. House of Representatives, and a second one corresponding to voting records in the U.S. Supreme Court between 1937 and 2022."
-    keywords: "<strong>Keywords:</strong> unfolding models; spatial voting models; non-monotonic response function; item response theory; Markov chain Monte Carlo."
+    keywords: "<strong>Keywords:</strong> unfolding models; spatial voting models; non-monotonic response function; item response theory; Markov chain Monte Carlo; R; C++."
     pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
     sitUrl:
     code: https://github.com/SkylarShiHub/pumBayes
