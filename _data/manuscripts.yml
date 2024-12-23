@@ -3,7 +3,7 @@ main:
   - title: "Copula mixture models for marked point processes in time"
     authors: "<strong>Shi, D.</strong> & Zheng, X. (2024+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based constructive framework for building marked point processes observed over time. In the framework, a marked point process is characterized by the conditional multivariate density of the duration (interval between successive event times) and marks. We model the conditional multivariate density using a finite mixture of transition densities, each incorporating a different lagged duration and its associated marks. These mixture transition densities are constructed by exploiting the decomposition of a high-dimensional densities into bivariate-copula densities and marginal densities. Using bivariate copulas as building blocks allows for flexible modeling of multivariate non-Gaussian dependence among durations and marks. Our approach using copulas, combined with the mixture model formulation for the conditional multivariate density, yields a flexible model for high-order dependence in point processes withmultivariate marks, while retaining computational efficiency. We investigate properties of the point process model analytically and through simulation studies. The methodology is illustrated with an example from the environmental science."
-    keywords: "<strong>Keywords:</strong> Bayesian hierarchical models; Conditional mark distribution; Markov chain Monte Carlo; Mixture transition distribution models; Pair-copula construction."
+    keywords: "<strong>Keywords:</strong> Bayesian hierarchical models, conditional mark distribution, Markov chain Monte Carlo, mixture transition distribution models, pair-copula construction."
     pdf:
     sitUrl: https://www.dropbox.com/scl/fi/t4ri2mtqscf8em92ijl70/Poster_ICSA_SkylarShi.pdf?rlkey=63ga4qex5vr3r4qd9eyx3ckoe&amp;st=bvty1lnb&amp;dl=0
     code: 
@@ -14,7 +14,7 @@ main:
   - title: "pumBayes: Bayesian estimation of probit unfolding models for binary preference data in R"
     authors: "<strong>Shi, D.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> Probit unfolding models (PUMs) are a novel class of scaling models that allow for items with both monotonic and non-monotonic response functions and have shown great promise in the estimation of preferences from voting data in various deliberative bodies.  This paper presents the R package pumBayes, which enables Bayesian inference for both static and dynamic PUMs using Markov chain Monte Carlo algorithms that require minimal or no tunning. In addition to funcitons that carry out the sampling from the posterior distribution of the models, the package also includes various support functions that can be used to pre-process data, select hyperparameters, summarize output, and compute metrics of model fit.  We demonstrate the use of the package through an analysis of two datasets, one corresponding to roll-call voting data from the 116th U.S. House of Representatives, and a second one corresponding to voting records in the U.S. Supreme Court between 1937 and 2022."
-    keywords: "<strong>Keywords:</strong> unfolding models; spatial voting models; non-monotonic response function; item response theory; Markov chain Monte Carlo; R; C++."
+    keywords: "<strong>Keywords:</strong> unfolding models, spatial voting models, non-monotonic response function, item response theory, Markov chain Monte Carlo, R, C++."
     pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
     sitUrl:
     code: https://github.com/SkylarShiHub/pumBayes
@@ -26,7 +26,7 @@ main:
   - title: "Climate Change Implications of Emissions Trends Since the Paris Agreement"
     authors: "Jiang, J.*, <strong>Shi, D.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a fully statistical probabilistic model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal. Based on current trends without additional effort, the median forecast of global mean temperature increase is 2.47 °C, and the probability of staying below 2 °C and 1.5 °C are 15.5% and 1.6%, respectively. However, if all the countries continue to reduce emissions after meeting their NDCs, the probability will increase to 52.4% and 4.6%.
-    keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions
+    keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions.
     pdf: https://skylarshihub.github.io/
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
