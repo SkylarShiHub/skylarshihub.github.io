@@ -21,15 +21,15 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/draft2.png
-    notes: In preparation
+    # notes: Submitted
     
   - title: "Climate Change Implications of Emissions Trends Since the Paris Agreement"
     authors: "Jiang, J.*, <strong>Shi, D.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a fully statistical probabilistic model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal. Based on current trends without additional effort, the median forecast of global mean temperature increase is 2.47 °C, and the probability of staying below 2 °C and 1.5 °C are 15.5% and 1.6%, respectively. However, if all the countries continue to reduce emissions after meeting their NDCs, the probability will increase to 52.4% and 4.6%.
     keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions.
-    pdf: https://skylarshihub.github.io/
+    pdf: https://www.dropbox.com/scl/fi/6vnw29bxvbkwvusza6r5i/ClimateForecast_paper.pdf?rlkey=vsox45ae9qk27ye2n22z6dnhe&st=ulyrrhpd&dl=0
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
     image: ./assets/img/draft3.png
-    notes: In preparation
+    # notes: Submitted
     
