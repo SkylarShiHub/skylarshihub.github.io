@@ -21,7 +21,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/draft2.png
-    notes: Submitted to <strong>Journal of Statistical Software</strong>
+    notes: Submitted to Journal of Statistical Software
     
   - title: "Climate Change Implications of Emissions Trends Since the Paris Agreement"
     authors: "Jiang, J.*, <strong>Shi, D.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
@@ -31,5 +31,5 @@ main:
     sitUrl:
     code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
     image: ./assets/img/draft3.png
-    notes: Submitted to <strong>Nature</strong>
+    notes: Submitted to Nature
     
