@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a master student in Statistics at University of Washington (UW). My research at UW with <a href="https://sites.stat.washington.edu/raftery/">Adrian E. Raftery</a> focuses on modeling time series based on Bayesian hierarchical models and Bayesian Model Averaging, applied to global temperature forecast. Additionally, I work with <a href="https://sites.stat.washington.edu/people/abelrod/Home.html">Abel Rodriguze</a> on a one-dimensional factor analysis model, the Probit Unfolding Model, aimed at estimating individual ideology over time from binary preference data.   
+I received my M.S. in Statistics at University of Washington (UW) in March 2025. My research at UW with <a href="https://sites.stat.washington.edu/raftery/">Adrian E. Raftery</a> focuses on modeling time series based on Bayesian hierarchical models and Bayesian Model Averaging, applied to global temperature forecast. Additionally, I work with <a href="https://sites.stat.washington.edu/people/abelrod/Home.html">Abel Rodriguze</a> on a one-dimensional factor analysis model, the Probit Unfolding Model, aimed at estimating individual ideology over time from binary preference data.   
 
 My research interest lies primarily in dynamic modeling, with a particular emphasis on developing methodologies for spatio-temporal data that exhibit dependencies across different variables and multiple spatio-temporal scales. I am also interested in creating flexible models that operate with minimal restrictive assumptions, as common assumptions like conditional independence often fail to hold in complex stochastic processes. In terms of application, I am excited by the potential of these methodologies to advance research in diverse fields, including climate science, political and social sciences, genetics and neuroscience.
 
-I will be starting my Ph.D. in Statistics this August (school TBD). Currently, I am working with <a href="https://www.xzheng42.com/">Xiaotian Zheng</a> on copula mixture models for marked point processes in time, developing a flexible framework to capture multivariate dependencies in event durations and marks.
+I will be starting my PhD studies in Statistics this August (school TBD). Currently, I am working with <a href="https://www.xzheng42.com/">Xiaotian Zheng</a> on copula mixture models for marked point processes in time, developing a flexible framework to capture multivariate dependencies in event durations and marks.
 
 ## Research Interests
 
