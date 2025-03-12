@@ -1,7 +1,7 @@
 main:
 
   - title: "Probabilistic Model Weighting for Climate Projections: A Bayesian Model Averaging Approach"
-    authors: "<strong>Shi, D. S.*</strong>, Jiang, J.* & Raftery, A. E. (2024+). (*Co-First Authors)"
+    authors: "<strong>Shi, S. D.*</strong>, Jiang, J.* & Raftery, A. E. (2024+). (*Co-First Authors)"
     abstract: "<strong>Abstract:</strong> In this study, we develop a Bayesian Model Averaging (BMA) framework to improve climate sensitivity estimation by systematically weighting Coupled Model Intercomparison Project (CMIP) models based on their consistency with historical observational data. Unlike traditional approaches that discard models with extreme equilibrium climate sensitivity (ECS) and transient climate response (TCR) values, BMA preserves ensemble diversity while probabilistically downweighting models that deviate from observational trends. We apply BMA to 51 CMIP6 models, deriving a posterior distribution for the transient climate response to cumulative CO₂ emissions (TCRE). Our results show that BMA-based projections systematically yield higher expected warming (36% increase in median TCRE) and lower uncertainty (23% reduction in variance) compared to IPCC AR6 estimates. Variance decomposition analysis reveals that parameter uncertainty in climate sensitivity contributes to 50% of total projection uncertainty, underscoring the need for improved statistical inference in climate modeling. Validation against HadCRUT5 temperature records (2015-2024) demonstrates that the BMA approach is well-calibrated and effectively captures observed temperature trends."
     keywords: "<strong>Keywords:</strong> Bayesian model averaging, model weighting, climate sensitivity, climate projection, CMIP6."
     pdf:
@@ -12,7 +12,7 @@ main:
     notes: Draft completed, preparing for submission to The Annals of Applied Statistics
     
   - title: "Copula Mixture Models for Marked Point Processes in Time"
-    authors: "<strong>Shi, D. S.</strong> & Zheng, X. (2024+)."
+    authors: "<strong>Shi, S. D.</strong> & Zheng, X. (2024+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based constructive framework for building marked point processes observed over time. In the framework, a marked point process is characterized by the conditional multivariate density of the duration (interval between successive event times) and marks. We model the conditional multivariate density using a finite mixture of transition densities, each incorporating a different lagged duration and its associated marks. These mixture transition densities are constructed by exploiting the decomposition of a high-dimensional densities into bivariate-copula densities and marginal densities. Using bivariate copulas as building blocks allows for flexible modeling of multivariate non-Gaussian dependence among durations and marks. Our approach using copulas, combined with the mixture model formulation for the conditional multivariate density, yields a flexible model for high-order dependence in point processes withmultivariate marks, while retaining computational efficiency. We investigate properties of the point process model analytically and through simulation studies. The methodology is illustrated with an example from the environmental science."
     keywords: "<strong>Keywords:</strong> Bayesian hierarchical models, conditional mark distribution, Markov chain Monte Carlo, mixture transition distribution models, pair-copula construction."
     pdf:
@@ -23,7 +23,7 @@ main:
     notes: In preparation
 
   - title: "pumBayes: Bayesian Estimation of Probit Unfolding Models for Binary Preference Data in R"
-    authors: "<strong>Shi, D. S.</strong>, Rodriguez, A. & Lei, R. (2024+)."
+    authors: "<strong>Shi, S. D.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> Probit unfolding models (PUMs) are a novel class of scaling models that allow for items with both monotonic and non-monotonic response functions and have shown great promise in the estimation of preferences from voting data in various deliberative bodies.  This paper presents the R package pumBayes, which enables Bayesian inference for both static and dynamic PUMs using Markov chain Monte Carlo algorithms that require minimal or no tunning. In addition to funcitons that carry out the sampling from the posterior distribution of the models, the package also includes various support functions that can be used to pre-process data, select hyperparameters, summarize output, and compute metrics of model fit.  We demonstrate the use of the package through an analysis of two datasets, one corresponding to roll-call voting data from the 116th U.S. House of Representatives, and a second one corresponding to voting records in the U.S. Supreme Court between 1937 and 2022."
     keywords: "<strong>Keywords:</strong> unfolding models, spatial voting models, non-monotonic response function, item response theory, Markov chain Monte Carlo, R, C++."
     pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
@@ -35,7 +35,7 @@ main:
     notes: Submitted to Journal of Statistical Software
     
   - title: "Climate Change Implications of Emissions Trends Since the Paris Agreement"
-    authors: "Jiang, J.*, <strong>Shi, D. S.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
+    authors: "Jiang, J.*, <strong>Shi, S. D.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a fully statistical probabilistic model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal. Based on current trends without additional effort, the median forecast of global mean temperature increase is 2.47 °C, and the probability of staying below 2 °C and 1.5 °C are 15.5% and 1.6%, respectively. However, if all the countries continue to reduce emissions after meeting their NDCs, the probability will increase to 52.4% and 4.6%.
     keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions.
     pdf: https://www.dropbox.com/scl/fi/6vnw29bxvbkwvusza6r5i/ClimateForecast_paper.pdf?rlkey=vsox45ae9qk27ye2n22z6dnhe&st=ulyrrhpd&dl=0
