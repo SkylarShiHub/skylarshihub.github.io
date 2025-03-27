@@ -26,9 +26,9 @@ main:
     authors: "<strong>Shi, D. S.</strong>, Rodriguez, A. & Lei, R. (2024+)."
     abstract: "<strong>Abstract:</strong> Probit unfolding models (PUMs) are a novel class of scaling models that allow for items with both monotonic and non-monotonic response functions and have shown great promise in the estimation of preferences from voting data in various deliberative bodies.  This paper presents the R package pumBayes, which enables Bayesian inference for both static and dynamic PUMs using Markov chain Monte Carlo algorithms that require minimal or no tunning. In addition to funcitons that carry out the sampling from the posterior distribution of the models, the package also includes various support functions that can be used to pre-process data, select hyperparameters, summarize output, and compute metrics of model fit.  We demonstrate the use of the package through an analysis of two datasets, one corresponding to roll-call voting data from the 116th U.S. House of Representatives, and a second one corresponding to voting records in the U.S. Supreme Court between 1937 and 2022."
     keywords: "<strong>Keywords:</strong> unfolding models, spatial voting models, non-monotonic response function, item response theory, Markov chain Monte Carlo, R, C++."
-    pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
+    # pdf: https://www.dropbox.com/scl/fi/6lg0oxymfqnzoakpgfj4r/pumBayes_paper.pdf?rlkey=5gdzor4vrukxnkpmqt5jleero&st=qpeojnpv&dl=0
     sitUrl:
-    code: https://github.com/SkylarShiHub/pumBayes
+    # code: https://github.com/SkylarShiHub/pumBayes
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/draft2.png
@@ -38,9 +38,9 @@ main:
     authors: "Jiang, J.*, <strong>Shi, D. S.*</strong> & Raftery, A. E. (2024+). (*Co-First Authors)"
     abstract: <strong>Abstract:</strong> In this paper, we employed a fully statistical probabilistic model to evaluate the likelihood of achieving the Paris Agreement’s target of limiting global temperature rise to well below 2 °C, with effort to keep it within 1.5 °C. We also conduct country-level assessments based on the nationally determined contributions (NDCs) proposed by each country to help achieve this goal. Based on current trends without additional effort, the median forecast of global mean temperature increase is 2.47 °C, and the probability of staying below 2 °C and 1.5 °C are 15.5% and 1.6%, respectively. However, if all the countries continue to reduce emissions after meeting their NDCs, the probability will increase to 52.4% and 4.6%.
     keywords: <strong>Keywords:</strong> Bayesian hierarchical models, global temperature projection, Paris Agreement, nationally determined contributions.
-    pdf: https://www.dropbox.com/scl/fi/6vnw29bxvbkwvusza6r5i/ClimateForecast_paper.pdf?rlkey=vsox45ae9qk27ye2n22z6dnhe&st=ulyrrhpd&dl=0
+    # pdf: https://www.dropbox.com/scl/fi/6vnw29bxvbkwvusza6r5i/ClimateForecast_paper.pdf?rlkey=vsox45ae9qk27ye2n22z6dnhe&st=ulyrrhpd&dl=0
     sitUrl:
-    code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
+    # code: https://github.com/SkylarShiHub/BayesianClimateProjection2024
     image: ./assets/img/draft3.png
     notes: Under review at Nature
     
