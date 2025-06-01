@@ -1,7 +1,7 @@
 main:
 
   - title: "Copula Mixture Models for Marked Point Processes in Time"
-    authors: "<strong>Shi, D. S.</strong> & Zheng, X. (2025+)."
+    authors: "<strong>Shi, S.</strong> & Zheng, X. (2025+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based constructive framework for building marked point processes observed over time. In the framework, a marked point process is characterized by the conditional multivariate density of the duration (interval between successive event times) and marks. We model the conditional multivariate density using a finite mixture of transition densities, each incorporating a different lagged duration and its associated marks. These mixture transition densities are constructed by exploiting the decomposition of a high-dimensional densities into bivariate-copula densities and marginal densities. Using bivariate copulas as building blocks allows for flexible modeling of multivariate non-Gaussian dependence among durations and marks. Our approach using copulas, combined with the mixture model formulation for the conditional multivariate density, yields a flexible model for high-order dependence in point processes withmultivariate marks, while retaining computational efficiency. We investigate properties of the point process model analytically and through simulation studies. The methodology is illustrated with an example from the environmental science."
     keywords: "<strong>Keywords:</strong> Bayesian hierarchical models, conditional mark distribution, Markov chain Monte Carlo, mixture transition distribution models, pair-copula construction."
     pdf:
