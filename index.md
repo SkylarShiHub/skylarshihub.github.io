@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I will be starting my Ph.D. studies in Statistics at Ohio State University (OSU) this August. Currently, I am working with <a href="https://www.xzheng42.com/">Xiaotian Zheng</a> on copula mixture models for marked point processes in time, developing a flexible framework to capture multivariate dependencies in event durations and marks.
+I will be starting my Ph.D. studies in Statistics at the Ohio State University (OSU) this August. Currently, I am working with <a href="https://www.xzheng42.com/">Xiaotian Zheng</a> on copula mixture models for marked point processes in time, developing a flexible framework to capture multivariate dependencies in event durations and marks.
 
 I received my M.S. in Statistics at University of Washington (UW) in March 2025. My research at UW with <a href="https://sites.stat.washington.edu/raftery/">Adrian E. Raftery</a> focused on modeling time series based on Bayesian hierarchical models and Bayesian Model Averaging, applied to global temperature forecast. Additionally, I worked with <a href="https://sites.stat.washington.edu/people/abelrod/Home.html">Abel Rodriguze</a> on a one-dimensional factor analysis model, the Probit Unfolding Model, aimed at estimating individual ideology over time from binary preference data.   
 
