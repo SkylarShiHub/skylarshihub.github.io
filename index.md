@@ -11,6 +11,4 @@ Before this, I worked with <a href="https://sites.stat.washington.edu/raftery/">
 
 {% include_relative _includes/manuscripts.md %}
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
