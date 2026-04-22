@@ -3,7 +3,7 @@ main:
   - title: "Mark-specific quantile function learning on temporal point processes"
     authors: "<strong>Shi, S.</strong> & Zheng, X. (2026+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based mixture transition framework for modeling marked temporal point processes, with a focus on learning conditional quantile functions of event marks. The model represents the joint dynamics of inter-event durations and marks through a mixture of lag-specific transition components, while pair-copula constructions enable flexible modeling of non-Gaussian dependence. To capture heterogeneous effects across the mark distribution, we incorporate a quantile regression formulation based on the generalized asymmetric Laplace (GAL) distribution, allowing direct likelihood-based inference on conditional quantiles. The resulting framework provides a flexible and computationally efficient approach for modeling high-order temporal dependence and distributional heterogeneity. We establish key properties of the model and demonstrate its performance through simulations and an application to wildfire data."
-    keywords: "<strong>Keywords:</strong> Bayesian hierarchical models, conditional mark distribution, Markov chain Monte Carlo, mixture transition distribution models, pair-copula construction."
+    keywords: "<strong>Keywords:</strong> Quantile regression, marked point processes, copula models, mixture transition distribution, generalized asymmetric Laplace distribution, Bayesian inference, Markov chain Monte Carlo."
     pdf:
     sitUrl: https://www.dropbox.com/scl/fi/t4ri2mtqscf8em92ijl70/Poster_ICSA_SkylarShi.pdf?rlkey=63ga4qex5vr3r4qd9eyx3ckoe&amp;st=bvty1lnb&amp;dl=0
     code: 
