@@ -1,6 +1,6 @@
 main:
 
-  - title: "Mark-specific quantile function learning on temporal point processes"
+  - title: "Bayesian quantile regression for marked point processes"
     authors: "<strong>Shi, S.</strong> & Zheng, X. (2026+)."
     abstract: "<strong>Abstract:</strong> We propose a copula-based mixture transition framework for modeling marked temporal point processes, with a focus on learning conditional quantile functions of event marks. The model represents the joint dynamics of inter-event durations and marks through a mixture of lag-specific transition components, while pair-copula constructions enable flexible modeling of non-Gaussian dependence. To capture heterogeneous effects across the mark distribution, we incorporate a quantile regression formulation based on the generalized asymmetric Laplace (GAL) distribution, allowing direct likelihood-based inference on conditional quantiles. The resulting framework provides a flexible and computationally efficient approach for modeling high-order temporal dependence and distributional heterogeneity. We establish key properties of the model and demonstrate its performance through simulations and an application to wildfire data."
     keywords: "<strong>Keywords:</strong> Quantile regression, marked point processes, copula models, mixture transition distribution, generalized asymmetric Laplace distribution, Bayesian inference, Markov chain Monte Carlo."
@@ -21,7 +21,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/draft2.png
-    notes: Under revision at Journal of Open Research Software
+    notes: Published in Journal of Open Research Software
 
   - title: "Estimating Climate Sensitivity Using Bayesian Model Averaging for CMIP Models"
     authors: "Jiang, J.*, <strong>Shi, S.*</strong> & Raftery, A. E. (2026+). (*Co-First Authors)"
@@ -32,7 +32,7 @@ main:
     code: 
     # bibtex:
     image: ./assets/img/draft0.png
-    notes: Under major revision at Annals of Applied Statistics
+    notes: Under major revision and resubmit at Annals of Applied Statistics
     
   - title: "Mitigation efforts to reduce carbon dioxide emissions and meet the Paris Agreement have been offset by economic growth"
     authors: "Jiang, J.*, <strong>Shi, S.*</strong> & Raftery, A. E. (2025). (*Co-First Authors)"
